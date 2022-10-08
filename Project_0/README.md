@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+Угадать загаданное компьютером число за минимальное число попытк.
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/READ.md#Оглавление)
 
