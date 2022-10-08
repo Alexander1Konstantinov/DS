@@ -2,15 +2,20 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Описание-проекта)
-[2. Данные](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Данные)    
+
+[2. Данные](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Данные)      
+
 [3. Этапы работы над проектом](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Этапы-работы-над-проектом)  
+
 [4. Результат](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Результат)    
-[5. Выводы](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Выводы) 
+
+[5. Выводы](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Выводы)
+ 
 
 ### Описание проекта    
 Подготовка данных вакансий на Headhunter для построения модели,которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/READ.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Оглавление)
 
 ### Данные
 база резюме, выгруженная с сайта поиска вакансий hh.ru.
