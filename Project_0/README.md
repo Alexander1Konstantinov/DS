@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попытк.
+Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/READ.md#Оглавление)
 
@@ -27,13 +27,6 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Оглавление)
-
-
 ### Этапы работы над проектом  
 1. Знакомство с поставленной задачей
 2. Придумывание алгоритма
@@ -50,7 +43,7 @@
 
 
 ### Выводы:  
-
+Была проделана работа, в результате которой я научился работать с github и познакомился с pep8.
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Оглавление)
 
