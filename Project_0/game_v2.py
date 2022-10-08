@@ -1,7 +1,19 @@
+"""Игра: угадай число
+Компьютер сам загадывает и угадывает число
+"""
+
 import numpy as np
 
 
 def random_predict(number: int = 1) -> int:
+    """Рандомно угадываем число
+
+    Args:
+        number (int, optional): Загаданное число. Defaults to 1.
+
+    Returns:
+        int: Число попыток
+    """
     count = 0
     begin = 1
     end = 101
@@ -18,6 +30,14 @@ def random_predict(number: int = 1) -> int:
 
 
 def score_game(random_predict) -> int:
+    """За кокое число попыток в среднем за 1000 подходов угадывает наш алгоритм
+
+    Args:
+        random_predict (_type_):функция угадывания
+
+    Returns:
+        int: среднее количество попыток
+    """
     count_ls = []
     # np.random.seed(1)  # фиксируем сид для воспроизводимости
     random_array = np.random.randint(
