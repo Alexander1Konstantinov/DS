@@ -18,7 +18,7 @@
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_1/README.md#Оглавление)
 
 ### Данные
-база резюме, выгруженная с сайта поиска вакансий hh.ru.
+база резюме, выгруженная с сайта поиска вакансий hh.ru. https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing - ссылка на датасет.
 
 ### Этапы работы над проектом  
 1. Базовый анализ структуры данных
