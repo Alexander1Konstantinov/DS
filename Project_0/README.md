@@ -35,19 +35,22 @@
 
 
 ### Этапы работы над проектом  
-....
+1. Знакомство с поставленной задачей
+2. Придумывание алгоритма
+3. Реализация алгоритма
+4. Оформление проекта и отправка его на github
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Результаты:  
-....
+Написана программа, которая в среднем угадывает число за 8 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Оглавление)
 
 
 ### Выводы:  
-....
+
 
 :arrow_up:[к оглавлению](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_0/README.md#Оглавление)
 
