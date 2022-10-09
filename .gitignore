@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 Skillfactory/
 data/
+АСД/
 # C extensions
 *.so
 
