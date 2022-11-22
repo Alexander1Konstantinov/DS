@@ -1,4 +1,4 @@
-# Проект 1. Headhunter
+# Проект 2. Headhunter SQL
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Alexander1Konstantinov/DS/tree/main/Project_2/README.md#Описание-проекта)
