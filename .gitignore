@@ -5,6 +5,7 @@ __pycache__/
 Skillfactory/
 data/
 АСД/
+Фурье/
 # C extensions
 *.so
 
