@@ -6,6 +6,8 @@ Skillfactory/
 data/
 АСД/
 Фурье/
+.vscode
+тест
 # C extensions
 *.so
 
