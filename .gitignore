@@ -8,6 +8,7 @@ data/
 Фурье/
 .vscode
 тест
+no_git/
 # C extensions
 *.so
 
