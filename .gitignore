@@ -9,7 +9,7 @@ data/
 .vscode
 тест
 no_git/
-.deep_learning
+/deep_learning
 # C extensions
 *.so
 
